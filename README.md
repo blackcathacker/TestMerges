@@ -6,4 +6,4 @@ So how about a squash
 
 And a rebase with multiple commits
 
-And a merge commit with multiple commits
+And a merge commit with multiple commits...and actually more than one
